@@ -1,4 +1,5 @@
-<img width="100%" height="250px" src="https://share.creavite.co/66d48b50ce9f5d4f051055ac.gif" alt="banner">
+<img width="100%" height="250px" src="![standard (1)](https://github.com/user-attachments/assets/d4672b6e-9dd0-4b26-bf41-bee3b86c7f07)
+" alt="banner">
 
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/dhruv-sharma-9b1151202">Dhruv Sharma</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 

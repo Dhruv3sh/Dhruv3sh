@@ -1,5 +1,4 @@
-<img width="100%" height="250px" src="https://github.com/Dhruv3sh/Dhruv3sh/blob/main/stan.gif
-" alt="banner">
+<img width="100%" height="250px" src="https://github.com/Dhruv3sh/Dhruv3sh/blob/main/stan.gif" alt="banner">
 
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/dhruv-sharma-9b1151202">Dhruv Sharma</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 

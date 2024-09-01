@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="banner">
+<img width="100%" src="https://share.creavite.co/66d48b50ce9f5d4f051055ac.gif" alt="banner">
 
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/dhruv-sharma-9b1151202">Dhruv Sharma</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 

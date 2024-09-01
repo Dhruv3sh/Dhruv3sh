@@ -16,7 +16,7 @@
 - 📫 Reach me through my **[Mail](mailto:dhruv.3sh@gmail.com)**.
 
 <h3>Connect with me : </h3>
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="dancingGithub">
+<img align="right" src="https://github.com/Dhruv3sh/Dhruv3sh/blob/main/congrats.gif" alt="dancingGithub">
 <ul>
     <li><a href="https://www.linkedin.com/in/dhruv-sharma-9b1151202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv-sharma" height="30" width="40" />@Dhruv-sharma</a></li>
     <li><a href="https://www.instagram.com/dhruv_sh10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DhruvSharma" height="30" width="40" />@dhruv_sh10</a></li>

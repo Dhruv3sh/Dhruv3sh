@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/dhruv-sharma-9b1151202">Dhruv Sharma</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 
-	A full-stack web developer from Delhi. I take great care in the experience, architecture, and code quality of the things I build.
+	A frontend web developer from Delhi. I take great care in the experience, architecture, and code quality of the things I build.
 </h4>
 
 - 🔭 I’m currently working on **[Feelm-Streaming-app.](https://feelmmovies.vercel.app/)** website created using React.

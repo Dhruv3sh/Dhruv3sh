@@ -45,7 +45,7 @@
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
-<p width="45%" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv3sh&layout=compact&theme=tokyonight&count_private=true" alt="dhruv3sh" /></p>
+<p width="45%" align="left"><img src="https://github-readme-stats-dhruv.vercel.app/api/top-langs/?username=dhruv3sh&layout=compact&theme=tokyonight&count_private=true" alt="dhruv3sh" /></p>
 </div>
 <h3>Other Stuff : </h3>
    <ul>
@@ -53,7 +53,7 @@
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
-        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv3sh&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" /></p>
+        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats-dhruv.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv3sh&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" /></p>
     </div>
 
   

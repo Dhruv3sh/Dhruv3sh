@@ -55,9 +55,10 @@
     <div>
         <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats-dhruv.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" />
 <img
-  width="100%"
-  src="https://ghchart.rshah.org/dhruv3sh"
-  alt="Dhruv Sharma GitHub Contribution Graph"
+  width="400px"
+  align="right"
+  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=dhruv3sh&theme=tokyonight"
+  alt="dhruv3sh"
 />
 </p>
     </div>

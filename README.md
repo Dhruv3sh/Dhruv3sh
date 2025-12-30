@@ -56,7 +56,7 @@
         <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats-dhruv.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" /><img
   width="400px"
   align="right"
-  src="https://streak-stats.demolab.com?user=dhruv3sh&theme=tokyonight&hide_border=false"
+  src="https://streak-stats.demolab.com/api.svg?user=dhruv3sh&theme=tokyonight"
   alt="dhruv3sh"
 /></p>
     </div>

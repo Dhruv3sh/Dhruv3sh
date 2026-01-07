@@ -53,11 +53,11 @@
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
-        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats-dhruv.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="dhruv3sh" />
+        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats-dhruv.vercel.app/api?username=dhruv3sh&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en&v=1" alt="dhruv3sh" />
 <img
   width="400px"
   align="right"
-  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=dhruv3sh&theme=tokyonight"
+  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=dhruv3sh&theme=tokyonight&v=1"
   alt="dhruv3sh"
 />
 </p>
